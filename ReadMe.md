@@ -22,14 +22,14 @@ A Diversity-Promoting Objective Function for Neural Conversation Models(Li et al
 NPL基础
 =======
 NLTK<br>
-- 文本处理流程
+文本处理流程<br>
 - 分词
 - 归一化
 - 停止词
-NLP经典三案例
+NLP经典三案例<br>
 - 情感分析
 - 文本相似度
 - 文本分类
-深度学习加持
+深度学习加持<br>
 - Autoencoder
 - Word2Vec
