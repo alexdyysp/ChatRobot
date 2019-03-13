@@ -21,3 +21,8 @@ A Diversity-Promoting Objective Function for Neural Conversation Models(Li et al
 
 NPL基础
 =======
+- NLTK
+-文本处理流程
+-- 分词
+-- 归一化
+-- 停止词
