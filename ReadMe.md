@@ -9,3 +9,7 @@ Challenges:
 主要思想，哪怕语法对，也要让输出语句性格色彩符合心理学模型
 
 4.模型验证
+How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation(Liu,2016)
+
+5.多样性
+A Diversity-Promoting Objective Function for Neural Conversation Models(Li et al. 2015)
