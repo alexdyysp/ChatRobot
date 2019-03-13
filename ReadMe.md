@@ -22,6 +22,8 @@ A Diversity-Promoting Objective Function for Neural Conversation Models(Li et al
 NPL基础
 =======
 NLTK<br>
+- tokenize: 把长句子拆成有意义的小部件  
+
 文本处理流程<br>
 - 分词
 - 归一化
@@ -34,4 +36,5 @@ NLP经典三案例<br>
 
 深度学习加持<br>
 - Autoencoder
-- Word2Vec
+- Word2Vec  
+
