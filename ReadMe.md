@@ -1,5 +1,5 @@
 ChatBot概览
-===========
+-----------
 1.Retrieval-based:解决搜索时间复杂度
 
 Challenges:
@@ -20,4 +20,4 @@ A Diversity-Promoting Objective Function for Neural Conversation Models(Li et al
 基于查找，知识库，规则，可以更好的控制机器
 
 NPL基础
--------
+=======
